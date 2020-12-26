@@ -3,8 +3,8 @@ The task is to create a program to allow the finch (a small robot which can be p
 
 Features of the program includes: 
  User input: 
-*Length of a zigzag section (in cm) 
-*Number of zigzag sections (all sections will have the same length) 
+*  Length of a zigzag section (in cm) 
+*  Number of zigzag sections (all sections will have the same length) 
 
 Display an error message if the values are: 
 *not in between the range 20cm-80cm for the length of each section 
