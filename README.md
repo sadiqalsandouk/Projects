@@ -1,10 +1,7 @@
 # Zigzag Finch Robot
-The task is to create a program to allow the finch (a small robot which can be programmed to perform tasks) to perform a 
-zigzag at the user’s desired settings while producing sound and emitting lights. 
-Ensuring usability and meeting all requirements including the additional functionalities 
-have been designed in order to enhance the user’s experience. 
+The task is to create a program to allow the finch (a small robot which can be programmed to perform tasks) to perform a zigzag at the user’s desired settings while producing sound and emitting lights. 
 
-Required functionalities of the program includes: 
+Features of the program includes: 
  User input: 
 -Length of a zigzag section (in cm) 
 -Number of zigzag sections (all sections will have the same length) 
