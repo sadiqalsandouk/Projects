@@ -1,0 +1,9 @@
+The Program Is Now Complete!
+----------------------------
+The Traversed Path Is: 400cm
+The 'Straight Line' Distance Travelled Is: 283cm (to the nearest centimetre)
+Start Time: 02:31:55
+End Time: 02:33:12
+Total Elapsed Time: 77 seconds
+
+try it again!
